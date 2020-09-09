@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pbFzBH07brhLrdQrNYvw0OFjb/n4jAnn2jqeZjxp4VfSSMBb0Q68DUmodaJ9MaCjxUrbtPd9AjdBNFjprEF9AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Valim\\OneDrive - Fatec Centro Paula Souza\\Estudos\\Asp Net\\ControleFinanceiroBackEnd\\ControleFinanceiro.Infra\\ControleFinanceiro.Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Valim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

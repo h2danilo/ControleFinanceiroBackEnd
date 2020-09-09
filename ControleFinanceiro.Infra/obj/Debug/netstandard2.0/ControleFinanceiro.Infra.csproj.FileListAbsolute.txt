@@ -1,0 +1,9 @@
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\bin\Debug\netstandard2.0\ControleFinanceiro.Infra.deps.json
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\bin\Debug\netstandard2.0\ControleFinanceiro.Infra.dll
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\bin\Debug\netstandard2.0\ControleFinanceiro.Infra.pdb
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.csprojAssemblyReference.cache
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.AssemblyInfoInputs.cache
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.AssemblyInfo.cs
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.dll
+C:\Users\Valim\OneDrive - Fatec Centro Paula Souza\Estudos\Asp Net\ControleFinanceiroBackEnd\ControleFinanceiro.Infra\obj\Debug\netstandard2.0\ControleFinanceiro.Infra.pdb
