@@ -5,7 +5,7 @@ namespace ControleFinanceiro.Domain.Model  {
         {
             NomeSetor = nomeSetor;
         }
-        public string NomeSetor { get; set; }
+        public string NomeSetor { get; private set; }
 
         public override string ToString(){
             return NomeSetor;    

@@ -1,13 +1,15 @@
+using ControleFinanceiro.Domain.Model.ValueObjects;
+
 namespace ControleFinanceiro.Domain.Model  {
     public class Banco {
-        public Banco(string nomeBanco)
+        public Banco(Descricao nomeBanco)
         {
             NomeBanco = nomeBanco;
         }
-        public string NomeBanco { get; private set; }
+        public Descricao NomeBanco { get; private set; }
 
         public override string ToString(){
-            return NomeBanco;    
+            return NomeBanco.ToString();    
         }
     }
 }

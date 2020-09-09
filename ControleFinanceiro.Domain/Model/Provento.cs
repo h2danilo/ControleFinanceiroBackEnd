@@ -4,17 +4,17 @@ namespace ControleFinanceiro.Domain.Model  {
 
     public class Provento {
         
-        public string TipoProvento { get; set; }
+        public string TipoProvento { get; private set; }
 
-        public Banco Banco { get; set; }
+        public Banco Banco { get; private set; }
 
-        public DateTime Data { get; set; }
+        public DateTime Data { get; private set; }
 
-        public Papel Papel { get; set; }
+        public Papel Papel { get; private set; }
 
-        public double Total { get; set; }
+        public decimal Total { get; private set; }
 
-        public int QtdePapel { get; set; }
+        public decimal QtdePapel { get; private set; }
             
     }
 }
