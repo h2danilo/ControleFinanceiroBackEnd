@@ -1,6 +1,9 @@
+using FluentValidator;
+
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class MovimentoTesouroDireto {
+    public class MovimentoTesouroDireto : Notifiable
+    {
         
     }
 }

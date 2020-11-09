@@ -1,8 +1,10 @@
 using ControleFinanceiro.Domain.Model.Enums;
+using FluentValidator;
 
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class Papel {
+    public class Papel : Notifiable
+    {
 
         public Papel(
             string nomePapel, 

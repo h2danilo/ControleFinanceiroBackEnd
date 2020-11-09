@@ -1,8 +1,10 @@
+using FluentValidator;
 using System;
 
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class Provento {
+    public class Provento : Notifiable
+    {
         
         public string TipoProvento { get; private set; }
 

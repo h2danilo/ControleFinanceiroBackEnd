@@ -1,6 +1,9 @@
+using FluentValidator;
+
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class SetorPapel {
+    public class SetorPapel : Notifiable
+    {
         public SetorPapel(string nomeSetor)
         {
             NomeSetor = nomeSetor;

@@ -1,9 +1,11 @@
 using System;
 using ControleFinanceiro.Domain.Model.Enums;
+using FluentValidator;
 
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class MovimentoAcao {
+    public class MovimentoAcao : Notifiable
+    {
         public MovimentoAcao(
             Banco banco,
             Papel papel,

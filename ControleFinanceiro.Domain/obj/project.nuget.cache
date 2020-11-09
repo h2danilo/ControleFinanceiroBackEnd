@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pqyU6l7F1FnbQS1stsoMLIa9Aiv/cEzVFYjcWscYheNxvghUlxdBksknBYiYikoF7tBCAgYoIR/omITlPgj36A==",
+  "dgSpecHash": "Jiknbd9HLZx02d+otr1Dw4+gcL0RN0NoXKOYguc5mlwGI6OZJOBTuywmWRgIp/bWqNZTPj6WRy+xXKbGrKl9jw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Valim\\OneDrive - Fatec Centro Paula Souza\\Estudos\\Asp Net\\ControleFinanceiroBackEnd\\ControleFinanceiro.Domain\\ControleFinanceiro.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Valim\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Valim\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Valim\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

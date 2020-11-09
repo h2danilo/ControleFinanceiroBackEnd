@@ -1,9 +1,11 @@
 using ControleFinanceiro.Domain.Model.Enums;
 using ControleFinanceiro.Domain.Model.ValueObjects;
+using FluentValidator;
 
 namespace ControleFinanceiro.Domain.Model  {
 
-    public class EmpresaRecomendacao {
+    public class EmpresaRecomendacao : Notifiable
+    {
 
         public EmpresaRecomendacao(
             Descricao empresa,
